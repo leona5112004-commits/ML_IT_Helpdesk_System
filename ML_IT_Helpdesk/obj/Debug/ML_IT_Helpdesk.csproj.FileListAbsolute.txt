@@ -1,0 +1,51 @@
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmLogin.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmMainMenu.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmNewCall.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmProblemResolution.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmReports.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.Properties.Resources.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.GenerateResource.cache
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.CoreCompileInputs.cache
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.exe.config
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.exe
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.pdb
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.exe
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.pdb
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmSearchEquipment.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmTechnicianAssignment.resources
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.AssemblyReference.cache
+D:\LecFiles\1L5DC\HND\Batch357(Database)\ML_IT_Helpdesk\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmEmployeeManagement.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.AssemblyReference.cache
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmTechnicianAssignment.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmLogin.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmMainMenu.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmNewCall.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmProblemResolution.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmReports.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmEmployeeManagement.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmEquipmentManagement.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.Properties.Resources.resources
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.GenerateResource.cache
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.CoreCompileInputs.cache
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.exe
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.pdb
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.exe.config
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.exe
+D:\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.pdb
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.exe.config
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.exe
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\bin\Debug\ML_IT_Helpdesk.pdb
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.AssemblyReference.cache
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmTechnicianAssignment.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmLogin.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmMainMenu.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmNewCall.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmProblemResolution.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmReports.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmEmployeeManagement.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.frmEquipmentManagement.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.Properties.Resources.resources
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.GenerateResource.cache
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.csproj.CoreCompileInputs.cache
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.exe
+D:\00000_ThaZin Oo_ DBDD\ML_IT_Helpdesk\ML_IT_Helpdesk\obj\Debug\ML_IT_Helpdesk.pdb
